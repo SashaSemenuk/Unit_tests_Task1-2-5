@@ -2,8 +2,7 @@ package main.java.Tasks;
 
 public class Task2 {
 
-    public static String main() {
-
+    public static String namePrint () {
         String name = "Sasha";
         String str = "";
         for (int i = 0; i < 5; i++) {
