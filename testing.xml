@@ -1,0 +1,12 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Src">
+    <test name="main.java.Tasks">
+        <classes>
+            <class name="main.java.Tasks.Task1"/>
+            <class name="main.java.Tasks.Task2"/>
+            <class name="main.java.Tasks.Task5">
+            </class>
+        </classes>
+    </test>
+</suite>
